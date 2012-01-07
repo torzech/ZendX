@@ -1,1 +1,1 @@
-ZendFramework (extras) library
+ZendFramework (extras) library @ 1.10
